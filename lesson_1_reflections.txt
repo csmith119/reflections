@@ -1,0 +1,32 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    When we could see only what changed then it was much easier to see what the problem or typo could be. Especially if we know that the program worked before. 
+
+ How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It lets you see how and where you improved which could give you ideas on how to shorten or change other aspects of the code. Also, if you decide later that the original was better then you don’t have to waste time rewriting code. 
+
+ What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The obvious cons are that you could end up with no history if you aren’t making sure to commit your work. If you’re a forgetful person than auto save is useful. However, by choosing when you commit, you get to create logical stopping points in your head. Like a pre-color and post-color version instead of just having it save whenever. 
+
+ Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately? 
+
+ 	I think it is because Git is more set up for computer programming where multiple files are fulfilling separate functions but are still working together. So, having repositories would be a priority for a service like Git, whereas for more general control systems they use a more standard system.  
+
+ How can you use the commands git log and git diff to view the history of files?
+
+    You can use git log to see the different commits you have made and to see what steps you think you have taken with your programming and when. Whereas with git diff you can actually track the concrete differences between commits. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I would know that i could checkout a previous commit and there for making a gamble on a new piece of code doesn't necessarily mean adding extra hours of work re-writing the code back to where it was. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I'm excited to use it for my game programming class and my mobile computing class. It seems like a really useful way to debug programs. 
